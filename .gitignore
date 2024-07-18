@@ -1,0 +1,6 @@
+/.env
+/.vscode
+/logs
+/quiz_output.txt
+/secretkey.py
+/__pycache__
